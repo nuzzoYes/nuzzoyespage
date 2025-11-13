@@ -1,0 +1,20 @@
+{
+  "todoList": [
+    {
+      "text": "通过四级",
+      "checked": false
+    },
+    {
+      "text": "学出成绩",
+      "checked": false
+    },
+    {
+      "text": "身体健康",
+      "checked": false
+    },
+    {
+      "text": "重构个人主页",
+      "checked": true
+    }
+  ]
+}
